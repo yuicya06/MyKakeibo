@@ -2,6 +2,7 @@ import SwiftUI
 
 
 struct ContentView: View {
+    //テストコメント
 
     @State private var expenses: [Expense] = []
     @State private var showAddView = false
